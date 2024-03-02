@@ -1,2 +1,2 @@
-# MYSQL-Practicals
-Kaushik Mourya MYSQL Practicals MSC DA&amp;AI
+#ADBMS-Practicals
+Kaushik Mourya DBMS Practicals MSC DA&amp;AI
